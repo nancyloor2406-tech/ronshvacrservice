@@ -1,0 +1,50 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 20px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:large;">1. How long does air duct cleaning usually take?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Most homes take between two and four hours, depending on system size.</p>
+                <h4 class="template4 palooma" style="font-size:large;">2. Is air duct cleaning necessary for newer buildings?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. Construction dust and debris often remain inside duct systems.</p>
+                <h4 class="template4 palooma" style="font-size:large;">3. Will cleaning air ducts help with odors?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">In many cases, removing buildup from ducts and vents reduces persistent smells.</p>
+                <h4 class="template4 palooma" style="font-size:large;">4. How long does air duct cleaning usually take?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Most jobs are completed within a few hours, depending on system size and condition in #State.</p>
+                <h4 class="template4 palooma" style="font-size:large;">5. What affects air duct cleaning cost?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Pricing depends on duct layout, number of vents, and system complexity in #State.</p>
+                <h4 class="template4 palooma" style="font-size:large;">6. How long does air duct cleaning usually take?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Most services are completed within a few hours, depending on system size.</p>
+                <div class="callalooma mx-auto"><a href="tel:888-484-0513">Click Here To Call Us (888) 484-0513</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+    
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
